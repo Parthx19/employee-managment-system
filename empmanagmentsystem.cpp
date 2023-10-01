@@ -1,5 +1,5 @@
 // PROJECT: Employee Record Management System using C++
-// Written by Nikhil
+// Written by Parth
 
 #include <iostream>
 using namespace std;
